@@ -1,0 +1,1 @@
+A basic calculator program that computes general algebra and also allows the usage of parentheses for clear order of operations.

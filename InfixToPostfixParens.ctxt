@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=infix
+comment0.target=java.lang.String\ convert(java.lang.String)
+comment0.text=\r\n\ Convert\ a\ string\ from\ infix\ to\ postfix.\r\n\ @param\ infix\ The\ infix\ expression\r\n\ @throws\ SyntaxErrorException\r\n
+comment1.params=op
+comment1.target=void\ processOperator(char)
+comment1.text=\r\n\ Method\ to\ process\ operators.\r\n\ @param\ op\ The\ operator\r\n\ @throws\ EmptyStackException\r\n
+comment2.params=ch
+comment2.target=boolean\ isOperator(char)
+comment2.text=\r\n\ Determine\ whether\ a\ character\ is\ an\ operator.\r\n\ @param\ ch\ The\ character\ to\ be\ tested\r\n\ @return\ true\ if\ ch\ is\ an\ operator\r\n
+comment3.params=op
+comment3.target=int\ precedence(char)
+comment3.text=\r\n\ Determine\ the\ precedence\ of\ an\ operator.\r\n\ @param\ op\ The\ operator\r\n\ @return\ the\ precedence\r\n
+numComments=4

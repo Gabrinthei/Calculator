@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStack()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyStack\r\n
+comment1.params=node
+comment1.target=void\ push(StackNode)
+comment2.params=
+comment2.target=StackNode\ peek()
+comment3.params=
+comment3.target=StackNode\ pop()
+numComments=4

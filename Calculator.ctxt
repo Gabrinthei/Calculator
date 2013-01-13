@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Calculator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Calculator\r\n
+comment2.params=
+comment2.target=void\ Clear()
+comment3.params=expression
+comment3.target=double\ evaluatePostfix(java.lang.String)
+comment3.text=\r\n\ This\ method\ takes\ a\ post-fix\ expression\ and\ evaluates\ its\ value\r\n\ \r\n\ @return\ \ \ \ \ The\ value\ of\ the\ evaluated\ expression\r\n
+numComments=4

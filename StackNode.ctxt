@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=StackNode(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StackNode\r\n
+comment1.params=node
+comment1.target=void\ setNext(StackNode)
+comment2.params=
+comment2.target=StackNode\ getNext()
+comment3.params=
+comment3.target=double\ getData()
+numComments=4
